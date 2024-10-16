@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa; /* Light blue background */
+    color: #005662; /* Darker blue for text */
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+#connectionCount {
+    font-size: 32px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+button {
+    background-color: #4db6e4; /* Light blue button */
+    color: white; /* White text */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #0097a7; /* Darker blue on hover */
+}
+
+button:disabled {
+    background-color: #a7d3e0; /* Light gray when disabled */
+    cursor: not-allowed;
+}
