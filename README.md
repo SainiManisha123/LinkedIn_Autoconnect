@@ -36,3 +36,8 @@ chromes://extensions
 ![image](https://github.com/user-attachments/assets/2e35e418-9007-44ff-982a-4d001c9e7ef6)
 
 
+###### In action
+
+https://github.com/user-attachments/assets/f586843f-2b79-48cb-bce3-1d4f45f3be24
+
+
