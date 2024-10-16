@@ -9,7 +9,7 @@ The extension saves you time and effort by automating the process of connecting 
 - Navigate to the directory where you want to store the cloned repository.
 
 ```
-git clone xx.git
+git clone https://github.com/SainiManisha123/LinkedIn_Autoconnect.git
 ```
 - Go the url bar and paste the following
 
@@ -24,9 +24,9 @@ chromes://extensions
 - Now pin the extension by selecting the extension icon on the top right corner of chrome.
 - Now go to [LinkedIn](https://www.linkedin.com/search/results/people/) and search for the profiles you want to connect with.
 - Click the extension icon to open the popup.
-- Click the "Start Connecting" button in the popup to initiate the connection process.
-- The extension will continue to connect with each profile until all profiles have been processed or until you click the "Stop Connecting" button in the popup.
-- The popup will display the number and percentage of completed connections.
+- Click the "Start" button in the popup to initiate the connection process.
+- The extension will continue to connect with each profile until all profiles have been processed or until you click the "Stop" button in the popup.
+- The popup will display the number of completed connections.
 
 Preview:
 ![image](https://github.com/user-attachments/assets/24bac2b8-bbcb-4619-bf2b-284f9a74b1f9)
